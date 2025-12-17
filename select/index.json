@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Coin",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-17T14:54:33.560723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Toss a Coin to Your Witcher (From \"the Witcher Series\")",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/01_Toss_a_Coin_to_Your_Witcher_(From__the_Witcher_Series_)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Coin On the Tongue",
+      "artist": "Benoît Pioulard",
+      "has_synced": true,
+      "path": "select/02_A_Coin_On_the_Tongue_Benoît_Pioulard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wish Coin (Go It Alone)",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/03_Wish_Coin_(Go_It_Alone)_Beck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wish Coin (Go It Alone) (Diplo Remix)",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/04_Wish_Coin_(Go_It_Alone)_(Diplo_Remix)_Beck.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Coin-Operated Boy",
+      "artist": "The Dresden Dolls",
+      "has_synced": true,
+      "path": "select/05_Coin-Operated_Boy_The_Dresden_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Coin",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/06_Coin_Regina_Spektor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Coin Toss",
+      "artist": "The Duckworth Lewis Method",
+      "has_synced": true,
+      "path": "select/07_The_Coin_Toss_The_Duckworth_Lewis_Method.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boy With a Coin",
+      "artist": "Iron & Wine",
+      "has_synced": true,
+      "path": "select/08_Boy_With_a_Coin_Iron_&_Wine.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Au coin du monde",
+      "artist": "Keren Ann",
+      "has_synced": true,
+      "path": "select/09_Au_coin_du_monde_Keren_Ann.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Big Coin",
+      "artist": "The Beautiful South",
+      "has_synced": true,
+      "path": "select/10_Big_Coin_The_Beautiful_South.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another Coin for...",
+      "artist": "The Tellers",
+      "has_synced": true,
+      "path": "select/11_Another_Coin_for..._The_Tellers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Coin for the Ferryman",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/12_Coin_for_the_Ferryman_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wo Qui Non Coin",
+      "artist": "Aoi Tada",
+      "has_synced": true,
+      "path": "select/13_Wo_Qui_Non_Coin_Aoi_Tada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "WO QUI NON COIN",
+      "artist": "多田葵",
+      "has_synced": true,
+      "path": "select/14_WO_QUI_NON_COIN_多田葵.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Insert Coin",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/15_Insert_Coin_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Toss a Coin to Your Witcher (Metal Version)",
+      "artist": "Dan Vasc",
+      "has_synced": true,
+      "path": "select/16_Toss_a_Coin_to_Your_Witcher_(Metal_Version)_Dan_Vasc.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Coin In The Pocket",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/17_Coin_In_The_Pocket_Joni_Mitchell.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Coin in the Pocket (Rap)",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/18_Coin_in_the_Pocket_(Rap)_Joni_Mitchell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Coin",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Coin_IU.txt"
+    }
+  ]
+}
